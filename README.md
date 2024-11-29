@@ -1,3 +1,5 @@
+![alt text](https://github.com/muradavud/vst-to-phone/blob/master/screenshot.png?raw=true)
+
 # VST to Phone
 Stream your mixes from your DAW to your phone!
 
